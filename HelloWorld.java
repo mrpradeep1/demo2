@@ -4,8 +4,8 @@ class HelloWorld {
         int a = 5;
         int b = 10;
         int c = a + b;
-        System.out.println("Addition feature added to Hello World!");
-        int c = a * b;
-        System.out.println("Multiplication feature added to Hello World!");
+        System.out.println(c + "Addition feature added to Hello World!");
+        int d = a * b;
+        System.out.println(d + "Multiplication feature added to Hello World!");
     }
 }
