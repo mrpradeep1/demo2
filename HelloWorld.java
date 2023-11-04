@@ -5,6 +5,7 @@ class HelloWorld {
         int b = 10;
         int c = a + b;
         System.out.println("Addition feature added to Hello World!");
-
+        int c = a * b;
+        System.out.println("Multiplication feature added to Hello World!");
     }
 }
